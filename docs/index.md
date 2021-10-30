@@ -10,4 +10,4 @@ footer: MIT Licensed | Copyright © 2021 By Otto
 
 # 最近更新
 
-- [第 0 期：创刊了！ 😂](/00/)
+- [第 0 期：创刊了！ 😂](/weekly/00/)
