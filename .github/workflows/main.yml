@@ -13,6 +13,20 @@ jobs:
         uses: pnpm/action-setup@v2.0.1
         with:
           version: 6.15.1
-
       - run: pnpm install
-      - run: sh deploy.sh
+
+      - name: Build
+        run: pnpm run docs:build
+
+      - name: Deploy to Pages
+        run: |
+        cd docs/.vitepress/dist
+        git init
+        git config init.defaultBranch master
+        git config user.email "{{secrets.EMAIL}}"
+        git config user.name "Otto"
+        git add -A
+        git commit -m 'deploy'
+        
+        git push -f git:${{ secrets.TOKEN }}@github.com:WebWorkerFM/weekly.git master:gh-pages
+
