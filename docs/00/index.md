@@ -86,6 +86,10 @@ https://arco.design/
 
 https://modernjs.dev/
 
+本周另一个大新闻：《Facebook 改名“Meta”，这是要押注元宇宙了？》
+
+https://www.163.com/dy/article/GNI24CAM0517AGGF.html
+
 ## :bulb: 共读
 
 React 的新文档上线了部分内容，可以访问 https://beta.reactjs.org 来预览。同时负责官方中文文档的**印记中文**也随之启动，并且在同名公众号（印记中文）里从文档角度提到了一些变化。[聊聊 React 新文档](https://mp.weixin.qq.com/s/f04RrFSojBR8lJOnvAALmg)
