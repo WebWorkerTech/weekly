@@ -14,6 +14,9 @@ cd docs/.vitepress/dist
 # echo 'www.example.com' > CNAME
 
 git init
+git config init.defaultBranch master
+git config user.email "fa@ijust.cc"
+git config user.name "Otto"
 git add -A
 git commit -m 'deploy'
 
