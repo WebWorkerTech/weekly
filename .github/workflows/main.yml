@@ -28,4 +28,4 @@ jobs:
           git add -A
           git commit -m 'deploy'
 
-          git push -f git:${{ secrets.TOKEN }}@github.com:WebWorkerFM/weekly.git master:gh-pages
+          git push -f https://Otto:${{ secrets.TOKEN }}@github.com/WebWorkerFM/weekly.git master:gh-pages
