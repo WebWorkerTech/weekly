@@ -21,10 +21,10 @@ jobs:
       - name: Deploy to Pages
         run: |
           cd docs/.vitepress/dist
+          git init
           git config init.defaultBranch master
           git config user.email "{{secrets.EMAIL}}"
           git config user.name "Otto"
-          git init
           git add -A
           git commit -m 'deploy'
 
