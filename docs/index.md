@@ -12,5 +12,6 @@ footer: MIT Licensed | Copyright © 2021 By Otto
 
 <!-- todo use v-for from data.json -->
 
+- [第 2 期：我](./02/)
 - [第 1 期：我进了 element-plus 核心团队](./01/)
 - [第 0 期：它和它致歉了](./00/)

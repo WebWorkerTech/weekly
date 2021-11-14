@@ -2,6 +2,7 @@
   {
     "text": "Weekly",
     "children": [
+      { "text": "第 2 期", "link": "/02/" },
       { "text": "第 1 期：我进了 element-plus 核心团队", "link": "/01/" },
       { "text": "第 0 期：它和它致歉了", "link": "/00/" }
     ]
