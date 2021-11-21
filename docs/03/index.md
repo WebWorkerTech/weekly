@@ -18,7 +18,7 @@ title: 第 3 期：为什么Vue在国际上越来越没影响力？ - 尤雨溪�
 
 ![surf](./surf.png)
 
-- **[edge 浏览器的断网小游戏](edge://surf/)** - 大家都知道 Chrome 中如果无网环境会出现小恐龙游戏，没想到 edge 有一个更炫酷的网上冲浪游戏。输入 `edge://surf/` 玩起来吧。
+- **edge 浏览器的断网小游戏 网址 `edge://surf/`** - 大家都知道 Chrome 中如果无网环境会出现小恐龙游戏，没想到 edge 有一个更炫酷的网上冲浪游戏。输入 `edge://surf/` 玩起来吧。
 
 ![vscode remote](./vscode-remote.png)
 
