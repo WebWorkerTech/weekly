@@ -40,8 +40,6 @@ title: 第 3 期：为什么Vue在国际上越来越没影响力？ - 尤雨溪�
 
 - **[我被裁了，腾讯开心鼠变伤心鼠](https://zhuanlan.zhihu.com/p/434550156)** - 已 404。教培重压之下，行业都没了，岗位自然也没了。作者写的很细腻，生动有活泼，可惜知乎已经删了，搜一搜标题可能还有没删的。
 
-- **[在部队当程序员是什么体验？ - 程序员的那些事](https://www.zhihu.com/question/426897186/answer/2186631965)** - 本周热文：部队中的程序员。看起来是 Python 相关的，看到每天早上 3km，下午 3km，感受到了世界的参差。
-
 ## 💡 共读
 
 - **[为什么 Vue 在国际上越来越没影响力？ - 尤雨溪的回答](https://www.zhihu.com/question/472193255/answer/2235015723)** - 作者亲自回复，答案是否定的。
@@ -55,7 +53,7 @@ title: 第 3 期：为什么Vue在国际上越来越没影响力？ - 尤雨溪�
 - **[[译] Rust 是 JavaScript 基础设施的未来 - ByteDance Web Infra](https://mp.weixin.qq.com/s/LSIi2P6FKnJ0GTodaTUGKw)** - 本周热文。一句话总结：Rust 很火，对前端的生态有建设性作用。但学习一门语言对普通 web 开发者不一定必要。
 - **[Modern.js 每周更新：支持 Windows、初步提供部署功能 - Modern.js](https://mp.weixin.qq.com/s/N7d7S4NjZUsDbIGmdoAgJg)** - 文章以极大的耐心说明了 Modern.js 本周的更新，除了标题描述细致，还补充了操作视频，补充了修改说明。我认为是开源 changelog weekly 的天花板了，持续关注。
 
-- **[Web Infra 大咖面对面：赵海平与张宏波聊聊编程语言](https://live.juejin.cn/4354/rescript-lang)** - web infra 大佬们聊。听下来感受到大佬更高层次维度的思考，值得一听。比如 39'00 谈 rust 是 js 基础的未来。看主持人小李如何 1v2 进行互动，我也参考学习
+- **[Web Infra 大咖面对面：赵海平与张宏波聊聊编程语言](https://live.juejin.cn/4354/rescript-lang)** - web infra 大佬们聊。听下来感受到大佬更高层次维度的思考，值得一听。比如 39'00 谈 rust 是 js 基础的未来。看主持人小李如何 1v2 进行互动，我也参考学习。
 
 ## 🐟 摸鱼消遣
 
@@ -66,6 +64,8 @@ title: 第 3 期：为什么Vue在国际上越来越没影响力？ - 尤雨溪�
 - **[650w 播放量！b 站 13 岁初中生，凭什么火到全站第一？- 三节课](https://mp.weixin.qq.com/s/Xy8RXEIKJfXxG3kkAOjGag)** - 从@保守派车迷刘同学 这位小学生 B 站 up 主看 B 站的知识内容变迁，B 站的知识区能给我们带来什么不一样的冲击呢？
 
 - **[告别互联网内卷，当程序员们决定去考公 - 三节课](https://mp.weixin.qq.com/s/wzpVzm6DF8YW_MexXcHdDw)** - 看另一个世界：这两年，疫情爆发之后，一切都在加速变化。不少互联网打工人已经将视线投向公务员，这似乎成为了最可靠的选择。今天三节课推荐一篇文章，听一听几位大厂程序员的故事，看看他们如何在认清生活真相后依旧热爱生活。
+
+- **[在部队当程序员是什么体验？ - 程序员的那些事](https://www.zhihu.com/question/426897186/answer/2186631965)** - 本周热文：部队中的程序员。看起来是 Python 相关的，看到每天早上 3km，下午 3km，感受到了世界的参差。
 
 ## 🎤 朋友说
 
